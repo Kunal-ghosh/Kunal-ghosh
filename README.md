@@ -7,8 +7,8 @@
 <h1 align='center'>
   Hi there 👋 I'm Kunal 👨‍💻
 </h1>
-- 🔭 I’m currently working on Kaalrav Website <br>
-- 🌱 I’m currently learning React
+<!-- - 🔭 I’m currently working on Kaalrav Website <br>
+- 🌱 I’m currently learning React -->
 <br><br>
 <p align='left'>
   A Web developer and Graphics designer from India.
