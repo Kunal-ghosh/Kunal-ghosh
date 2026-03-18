@@ -20,7 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-ghosh-93a3a121a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kunal_5315/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalghosh5315@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalghosh5135@gmail.com)
 
 </div>
 
@@ -32,8 +32,6 @@
 name        : Kunal Ghosh
 role        : Software Development Engineer — Full Stack
 location    : India 🇮🇳
-company     : Aptus Data Labs  (Dec 2025 – present)
-education   : B.Tech CSE @ Sikkim Manipal Institute of Technology  |  CGPA: 8.73 / 10
 focus_areas :
   - Event-Driven Backend Architecture (Kafka · Debezium · Redis)
   - Cloud Infrastructure & Automation (AWS Lambda · S3 · CI/CD)
