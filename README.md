@@ -1,25 +1,65 @@
 <div align="center">
 
-```bash
-$ whoami
 ```
-```
- ██╗  ██╗██╗   ██╗███╗   ██╗ █████╗ ██╗      ██████╗ ██╗  ██╗ ██████╗ ███████╗██╗  ██╗
- ██║ ██╔╝██║   ██║████╗  ██║██╔══██╗██║     ██╔════╝ ██║  ██║██╔═══██╗██╔════╝██║  ██║
- █████╔╝ ██║   ██║██╔██╗ ██║███████║██║     ██║  ███╗███████║██║   ██║███████╗███████║
- ██╔═██╗ ██║   ██║██║╚██╗██║██╔══██║██║     ██║   ██║██╔══██║██║   ██║╚════██║██╔══██║
- ██║  ██╗╚██████╔╝██║ ╚████║██║  ██║███████╗╚██████╔╝██║  ██║╚██████╔╝███████║██║  ██║
- ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+                                    .                       *           .
+           .         *                      .        .
+    .                    .     *                                .
+              *                      .              *
+    .                  .                    .                *        .
+          .       *            .                    .
+                                                                          .
+    *           .       .              *          .          *
+          .                  *                .                    .
+                    .               .                *
+    . *                  .                  .               .
+             .      *          .       .          .    *
+    .               .                *                       .       *
+                                                                             *
+             .           .    *            .         .
+    .                .             .              .        *          .
+            *                  .        *                        .
+                  .       .                  .            .
 ```
 
-```bash
-> full-stack engineer. builder. debugger of life.
-> currently: shipping things @ Aptus Data Labs 🚀
-> based in: India 🇮🇳
-> status: always learning, occasionally sleeping
+```
+          ██╗  ██╗██╗   ██╗███╗   ██╗ █████╗ ██╗
+          ██║ ██╔╝██║   ██║████╗  ██║██╔══██╗██║
+          █████╔╝ ██║   ██║██╔██╗ ██║███████║██║
+          ██╔═██╗ ██║   ██║██║╚██╗██║██╔══██║██║
+          ██║  ██╗╚██████╔╝██║ ╚████║██║  ██║███████╗
+          ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=node.js+%2F+python+%2F+react+%2F+next.js;kafka+%2F+redis+%2F+aws+%2F+mongodb;building+cool+stuff+since+2020;%24+npm+start+life)](https://github.com/Kunal-ghosh)
+```
+                     .  .  .  connecting to server  .  .  .
+
+              ┌────────────────────────────────────────────────┐
+              │  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  │
+              │  ░  ╔══════════════════════════════════════╗  ░│
+              │  ░  ║  $ whoami                            ║  ░│
+              │  ░  ║  > kunal ghosh                       ║  ░│
+              │  ░  ║                                      ║  ░│
+              │  ░  ║  $ cat about.txt                     ║  ░│
+              │  ░  ║  > full-stack engineer               ║  ░│
+              │  ░  ║  > builder of event-driven systems   ║  ░│
+              │  ░  ║  > ships AI tools that run themselves║  ░│
+              │  ░  ║  > kafka whisperer. aws wrangler.    ║  ░│
+              │  ░  ║                                      ║  ░│
+              │  ░  ║  $ uptime                            ║  ░│
+              │  ░  ║  > been coding for 4+ years          ║  ░│
+              │  ░  ║                                      ║  ░│
+              │  ░  ║  $ ping kunal                        ║  ░│
+              │  ░  ║  > kunalghosh5315@gmail.com          ║  ░│
+              │  ░  ║  > always open to cool ideas_        ║  ░│
+              │  ░  ║                                      ║  ░│
+              │  ░  ╚══════════════════════════════════════╝  ░│
+              │  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  │
+              └────────────────────────────────────────────────┘
+                              ║              ║
+                           ───╨──────────────╨───
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=%24+./build+--systems+that+scale;%24+kafka+%7C+redis+%7C+aws+%7C+node+%7C+python;%24+echo+%22I+let+the+machines+do+the+work%22;%24+git+push+origin+main+%23+and+breathe)](https://github.com/Kunal-ghosh)
 
 </div>
 
